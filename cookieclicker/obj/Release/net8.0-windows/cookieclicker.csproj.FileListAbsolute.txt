@@ -1,0 +1,17 @@
+C:\Users\tommy\source\repos\cookieclicker\bin\Release\net8.0-windows\cookieclicker.exe
+C:\Users\tommy\source\repos\cookieclicker\bin\Release\net8.0-windows\cookieclicker.deps.json
+C:\Users\tommy\source\repos\cookieclicker\bin\Release\net8.0-windows\cookieclicker.runtimeconfig.json
+C:\Users\tommy\source\repos\cookieclicker\bin\Release\net8.0-windows\cookieclicker.dll
+C:\Users\tommy\source\repos\cookieclicker\bin\Release\net8.0-windows\cookieclicker.pdb
+C:\Users\tommy\source\repos\cookieclicker\obj\Release\net8.0-windows\cookieclicker.Form1.resources
+C:\Users\tommy\source\repos\cookieclicker\obj\Release\net8.0-windows\cookieclicker.Properties.Resources.resources
+C:\Users\tommy\source\repos\cookieclicker\obj\Release\net8.0-windows\cookieclicker.csproj.GenerateResource.cache
+C:\Users\tommy\source\repos\cookieclicker\obj\Release\net8.0-windows\cookieclicker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tommy\source\repos\cookieclicker\obj\Release\net8.0-windows\cookieclicker.AssemblyInfoInputs.cache
+C:\Users\tommy\source\repos\cookieclicker\obj\Release\net8.0-windows\cookieclicker.AssemblyInfo.cs
+C:\Users\tommy\source\repos\cookieclicker\obj\Release\net8.0-windows\cookieclicker.csproj.CoreCompileInputs.cache
+C:\Users\tommy\source\repos\cookieclicker\obj\Release\net8.0-windows\cookieclicker.dll
+C:\Users\tommy\source\repos\cookieclicker\obj\Release\net8.0-windows\refint\cookieclicker.dll
+C:\Users\tommy\source\repos\cookieclicker\obj\Release\net8.0-windows\cookieclicker.pdb
+C:\Users\tommy\source\repos\cookieclicker\obj\Release\net8.0-windows\cookieclicker.genruntimeconfig.cache
+C:\Users\tommy\source\repos\cookieclicker\obj\Release\net8.0-windows\ref\cookieclicker.dll

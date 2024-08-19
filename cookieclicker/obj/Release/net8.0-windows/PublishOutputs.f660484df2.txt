@@ -1,0 +1,5 @@
+C:\Users\tommy\Desktop\project publish\cookie clicker\cookieclicker.exe
+C:\Users\tommy\Desktop\project publish\cookie clicker\cookieclicker.dll
+C:\Users\tommy\Desktop\project publish\cookie clicker\cookieclicker.deps.json
+C:\Users\tommy\Desktop\project publish\cookie clicker\cookieclicker.runtimeconfig.json
+C:\Users\tommy\Desktop\project publish\cookie clicker\cookieclicker.pdb
