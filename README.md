@@ -11,7 +11,4 @@ If the game can't load your save or the game crashes when you press the 'Save an
 
 1, Make sure you always exit the game with the 'save and exit' button. If you force close the game it WILL NOT save.
 
-2. Game crashes when you press the 'save and exit button'.
-
-    2a. Try running the game with administrator permissions.
-    2b. Try adding the game folder to your antivirus exclusions.
+2. If your game crashes when your press the 'save and exit' button, you should try running the game with administrator permissions and/or try adding the game folder to your antivirus exclusions.
